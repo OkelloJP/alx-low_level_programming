@@ -3,7 +3,7 @@
 /**
  * main - block point
  * Return: 0
- * */
+ */
 
 int main(void)
 {
@@ -18,8 +18,7 @@ int main(void)
 
 		continue;
 	}
-		putchar(a);
-	
+		putchar(a);	
 	}
 
 		putchar('\n');
