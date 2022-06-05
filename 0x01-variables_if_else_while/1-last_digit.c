@@ -8,7 +8,7 @@
  * return: 0
  */
 
-int main(void)
+int main()
 {
 
 	int n;
@@ -23,7 +23,7 @@ int main(void)
 
 	if (m > 5)
 
-	    printf("Last digit of %i is %i and is greater than 5\n", n, m);
+		 printf("Last digit of %i is %i and is greater than 5\n", n, m);
 
 	else if (m == 0)
 
