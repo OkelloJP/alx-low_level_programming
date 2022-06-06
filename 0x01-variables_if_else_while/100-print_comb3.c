@@ -24,7 +24,7 @@ int main(void)
 	if (!(i == 56 && j == 57))
 	{
 	putchar(44);
-	utchar(32);
+	putchar(32);
 	}
 	}
 	}
