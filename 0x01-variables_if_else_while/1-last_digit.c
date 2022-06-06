@@ -5,7 +5,7 @@
 /**
  * main - main block
  * statement based on last digit of number.
- * return: 0
+ * return: Always 0 (Success)
  */
 
 int main(void)
